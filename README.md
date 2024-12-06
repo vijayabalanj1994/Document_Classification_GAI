@@ -42,6 +42,14 @@ The **TopicTagger AI** project focuses on building a machine learning pipeline f
 
 ---
 
+---
+
+## Code
+
+- the project code can be found in Document_Classification.ipynb file
+
+---
+
 ## Technologies Used
 
 - Python (PyTorch, TorchText, NumPy, Pandas, Matplotlib, Plotly)
